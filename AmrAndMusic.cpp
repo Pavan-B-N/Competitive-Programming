@@ -2,6 +2,12 @@
 // [type: div2]
 // [problem: 287/A]
 // [tag: greedy, implementation,sortings]
+
+/*
+Amr is a young coder who likes music a lot. He always wanted to learn how to play music but he was busy coding so he got an idea.
+
+Amr has n instruments, it takes ai days to learn i-th instrument. Being busy, Amr dedicated k days to learn how to play the maximum possible number of instruments.
+*/
 #include <iostream>
 #include <vector>
 #include <climits>
